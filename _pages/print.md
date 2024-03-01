@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Print"
+permalink: /print/
+author_profile: true
+---
+
 # How to print shit at Uni FR
 
 :warning: **You must be at Uni, or connected to the VPN**
