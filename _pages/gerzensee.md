@@ -5,8 +5,14 @@ permalink: /gerzensee/
 author_profile: true
 ---
 
-I took part in the BDP at Gerzensee in 2022/23. These are all the solutions to old exams that I could write.
+I took part in the [Swiss Program for Beginning Doctoral Students in Economics](https://szgerzensee.ch/courses/bdp) in 2022/23.
+These are all the solutions to old exams that I could write.
 Your professors might be different nowadays, but you might still profit from these solutions.
+Feel free to distribute them to other students that might find them helpful.
+
+**Disclaimer:
+I do not know if the solutions are correct, so you might find mistakes.
+All the solutions were produced by me and are not validated by the Study Center Gerzensee in any way.**
 
 - Microeconomics: 
     - [Midterms](/files/zip/Micro_Midterms.zip)
