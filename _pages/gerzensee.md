@@ -12,7 +12,7 @@ Feel free to distribute them to other students that might find them helpful.
 
 All solutions are hand written and some are not that readable.
 In addition, the newer exams are not listed, as I did not see them when I took the courses.
-Therefore, I created a GitHub Repository to
+Therefore, I created a [GitHub Repository](https://github.com/rodrigueztom/Gerzensee_Exams) to
 (1) translate the handwritten copies into LaTex
 (2) let you contribute with newer solutions.
 If you find some time to contribute, it would be greatly appreciated by all future students of the program.
