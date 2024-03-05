@@ -32,3 +32,44 @@ All the solutions were produced by me and are not validated by the Study Center 
 - Econometrics: 
     - [Midterms](/files/zip/Econometrics_Midterms.zip)
     - [Finals](/files/zip/Econometrics_Finals.zip)
+
+If you want to contribute, this is the current state of progress.
+You can contribute directly on GitHub or send me handwritten solutions to newer exams, and I will put them into the .zip directories.
+
+## Midterms
+
+|      | Micro       | Macro       | Econometrics |
+|------|-------------|-------------|--------------|
+| 2011 | done        |             |              |
+| 2012 | done        |             |              |
+| 2013 | in progress |             |              |
+| 2014 |             |             |              |
+| 2015 |             |             |              |
+| 2016 |             |             |              |
+| 2017 |             |             |              |
+| 2018 |             |             |              |
+| 2019 |             |             |              |
+| 2020 |             |             |              |
+| 2021 |             |             |              |
+| 2022 |             |             |              |
+| 2023 |             |             |              |
+| 2024 |             |             |              |
+
+## Finals 
+
+|      | Micro       | Macro       | Econometrics |
+|------|-------------|-------------|--------------|
+| 2011 |             |             |              |
+| 2012 |             |             |              |
+| 2013 |             |             |              |
+| 2014 |             |             |              |
+| 2015 |             |             |              |
+| 2016 |             |             |              |
+| 2017 |             |             |              |
+| 2018 |             |             |              |
+| 2019 |             |             |              |
+| 2020 |             |             |              |
+| 2021 |             |             |              |
+| 2022 |             |             |              |
+| 2023 |             |             |              |
+| 2024 |             |             |              |
