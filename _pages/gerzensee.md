@@ -43,8 +43,8 @@ You can contribute directly on GitHub or send me handwritten solutions to newer 
 | 2011 | done        |             |              |
 | 2012 | done        |             |              |
 | 2013 | done        |             |              |
-| 2014 | in progress |             |              |
-| 2015 |             |             |              |
+| 2014 | done        |             |              |
+| 2015 | in progress |             |              |
 | 2016 |             |             |              |
 | 2017 |             |             |              |
 | 2018 |             |             |              |
