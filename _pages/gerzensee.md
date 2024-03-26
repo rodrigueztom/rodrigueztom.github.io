@@ -59,12 +59,12 @@ You can contribute directly on GitHub or send me handwritten solutions to newer 
 
 |      | Micro       | Macro       | Econometrics |
 |------|-------------|-------------|--------------|
-| 2011 |             |             |              |
-| 2012 |             |             |              |
-| 2013 |             |             |              |
-| 2014 |             |             |              |
-| 2015 |             |             |              |
-| 2016 |             |             |              |
+| 2011 |             | ---         |              |
+| 2012 |             | ---         |              |
+| 2013 |             | ---         |              |
+| 2014 |             | done        |              |
+| 2015 |             | done        |              |
+| 2016 |             | done        |              |
 | 2017 |             |             |              |
 | 2018 |             |             |              |
 | 2019 |             |             |              |
