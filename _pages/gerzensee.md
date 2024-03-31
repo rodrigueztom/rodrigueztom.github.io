@@ -15,11 +15,11 @@ I do not know if the solutions are correct, so you might find mistakes.
 All the solutions were produced by me and are not validated by the Study Center Gerzensee in any way.**
 
 - Microeconomics: 
-    - [Midterms](/files/pdf/Microeconomics_Midterms.pdf)
+    - [Midterms](/files/pdf/gerzensee/Microeconomics_Midterms.pdf)
     - [Finals](/files/zip/Micro_Finals.zip)
 - Macroeconomics: 
     - [Midterms](/files/zip/Macro_Midterms.zip)
-    - [Finals](/files/zip/Macro_Finals.zip)
+    - [Finals](/files/pdf/gerzensee/Macroeconomics_Finals.pdf)
 - Econometrics: 
     - [Midterms](/files/zip/Econometrics_Midterms.zip)
     - [Finals](/files/zip/Econometrics_Finals.zip)
@@ -51,9 +51,6 @@ You can contribute directly on GitHub or send me handwritten solutions to newer 
 | 2019 | done        |             |              |
 | 2020 | done        |             |              |
 | 2021 | done        |             |              |
-| 2022 | done        |             |              |
-| 2023 | done        |             |              |
-| 2024 | done        |             |              |
 
 ## Finals 
 
@@ -65,11 +62,8 @@ You can contribute directly on GitHub or send me handwritten solutions to newer 
 | 2014 |             | done        |              |
 | 2015 |             | done        |              |
 | 2016 |             | done        |              |
-| 2017 |             |             |              |
-| 2018 |             |             |              |
-| 2019 |             |             |              |
-| 2020 |             |             |              |
-| 2021 |             |             |              |
-| 2022 |             |             |              |
-| 2023 |             |             |              |
-| 2024 |             |             |              |
+| 2017 |             | done        |              |
+| 2018 |             | done        |              |
+| 2019 |             | done        |              |
+| 2020 |             | done        |              |
+| 2021 |             | done        |              |
