@@ -22,7 +22,7 @@ All the solutions were produced by me and are not validated by the Study Center 
     - [Finals](/files/pdf/gerzensee/Macroeconomics_Finals.pdf)
 - Econometrics: 
     - [Midterms](/files/zip/Econometrics_Midterms.zip)
-    - [Finals](/files/pdf/Econometrics_Finals.pdf)
+    - [Finals](/files/pdf/gerzensee/Econometrics_Finals.pdf)
 
 All solutions are hand written and some are not that readable.
 In addition, the newer exams are not listed, as I did not see them when I took the courses.
