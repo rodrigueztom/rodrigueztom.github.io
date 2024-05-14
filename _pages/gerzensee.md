@@ -22,7 +22,7 @@ All the solutions were produced by me and are not validated by the Study Center 
     - [Finals](/files/pdf/gerzensee/Macroeconomics_Finals.pdf)
 - Econometrics: 
     - [Midterms](/files/zip/Econometrics_Midterms.zip)
-    - [Finals](/files/zip/Econometrics_Finals.zip)
+    - [Finals](/files/zip/Econometrics_Finals.pdf)
 
 All solutions are hand written and some are not that readable.
 In addition, the newer exams are not listed, as I did not see them when I took the courses.
@@ -56,14 +56,14 @@ You can contribute directly on GitHub or send me handwritten solutions to newer 
 
 |      | Micro       | Macro       | Econometrics |
 |------|-------------|-------------|--------------|
-| 2011 |             | ---         |              |
-| 2012 |             | ---         |              |
-| 2013 |             | ---         |              |
-| 2014 |             | done        |              |
-| 2015 |             | done        |              |
-| 2016 |             | done        |              |
-| 2017 |             | done        |              |
-| 2018 |             | done        |              |
-| 2019 |             | done        |              |
-| 2020 |             | done        |              |
-| 2021 |             | done        |              |
+| 2011 |             | ---         | ---          |
+| 2012 |             | ---         | ---          |
+| 2013 |             | ---         | ---          |
+| 2014 |             | done        | done         |
+| 2015 |             | done        | done         |
+| 2016 |             | done        | done         |
+| 2017 |             | done        | done         |
+| 2018 |             | done        | done         |
+| 2019 |             | done        | done         |
+| 2020 |             | done        | done         |
+| 2021 |             | done        | done         |
