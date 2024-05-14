@@ -23,6 +23,7 @@ All the solutions were produced by me and are not validated by the Study Center 
 - Econometrics: 
     - [Midterms](/files/zip/Econometrics_Midterms.zip)
     - [Finals](/files/pdf/gerzensee/Econometrics_Finals.pdf)
+    - [Cheat Sheet](/files/pdf/gerzensee/CheatSheet.pdf)
 
 All solutions are hand written and some are not that readable.
 In addition, the newer exams are not listed, as I did not see them when I took the courses.
@@ -30,6 +31,7 @@ Therefore, I created a [GitHub Repository](https://github.com/rodrigueztom/Gerze
 
 1. translate the handwritten copies into LaTex
 1. let you contribute with newer solutions.
+1. give you access to the `tex` code of the cheat sheet for econometrics
 
 If you find some time to contribute, it would be greatly appreciated by all future students of the program.
 
